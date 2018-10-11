@@ -1,2 +1,2 @@
 FROM fedora
-RUN dnf install -y git
+RUN dnf install git
